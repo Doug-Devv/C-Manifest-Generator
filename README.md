@@ -29,7 +29,7 @@ Automatically scans your FiveM resource folder and generates a **fxmanifest.lua*
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/doug-devv/C-Manifest-Generator
+git clone https://github.com/flosseyy/C-Manifest-Generator
 cd FXManifestGenerator
 ```
 
